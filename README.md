@@ -1,2 +1,2 @@
 # entornos_calculadora
-V.0.1
+V.0.2
